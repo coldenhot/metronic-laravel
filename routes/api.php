@@ -20,5 +20,4 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 /**
  * bu bir denemedir
- * 123
  */
